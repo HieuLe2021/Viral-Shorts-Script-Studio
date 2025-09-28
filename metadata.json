@@ -1,0 +1,5 @@
+{
+  "name": "Viral Shorts Script Studio",
+  "description": "An application to generate various styles of YouTube Shorts scripts based on a user-provided topic, using AI-powered strategies.",
+  "requestFramePermissions": []
+}
